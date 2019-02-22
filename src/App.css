@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Blanka Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Blanka Regular'), url('Blanka-Regular.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Blanka Regular';
+  font-weight: 200;
+  color: #7feefa;
+  /* font-family: 'Kumar One Outline', cursive; */
+}
